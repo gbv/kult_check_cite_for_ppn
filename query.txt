@@ -1,0 +1,2 @@
+# alle Objekte mit PPN
+https://denkmalatlas.niedersachsen.de/solr/collection1/select?q=MD_NLD_LITERATUREQUOTATION%3A*&rows=100000&fl=PI%2C+MD_NLD_LITERATUREQUOTATION&wt=json&indent=true
